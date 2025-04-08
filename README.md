@@ -115,15 +115,6 @@ Make sure Apache is pointed to the `public/` directory and `.htaccess` is enable
 
 ---
 
-## 🔧 Next Steps
-
-- Add role-based access control
-- Add refresh token system
-- Extend modules (`/user`, `/posts`, etc.)
-- Add logging and request validation
-
----
-
 ## 🤝 License
 
 MIT – Feel free to use and customize for personal or commercial projects.
