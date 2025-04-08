@@ -7,7 +7,7 @@ A modular PHP REST API starter boilerplate with routing, middleware support, ver
 ## 📁 Project Structure
 
 ```
-/my-api-project
+/php-starter
 ├── config/             # DB config
 ├── core/               # Router, Auth, Middleware, etc.
 ├── modules/            # Versioned API modules (e.g., v1)
